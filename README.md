@@ -1,1 +1,1 @@
-![GitHub Stats](https://github.com/Nebelung-Exploit-Guy)
+[![Top Langs](https://vercel.app)](https://Nebelung-Exploit-Guy/github-readme-stats)
