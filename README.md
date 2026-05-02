@@ -1,3 +1,3 @@
 ## 📊 My GitHub Stats
 ## 🧠 Most Used Languages
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nebelung-Exploit-Guy)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebelung-Exploit-Guy&layout=compact&langs_count=20)
