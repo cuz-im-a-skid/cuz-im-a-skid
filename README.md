@@ -1,7 +1,6 @@
 ## 📊 My GitHub Stats
+## Most Used Languages
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Nebelung-Exploit-Guy&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebelung-Exploit-Guy)## Most Used Languages
 
-## 🧠 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebelung-Exploit-Guy&layout=compact&theme=tokyonight&langs_count=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nebelung-Exploit-Guy)
